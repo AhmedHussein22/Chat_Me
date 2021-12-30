@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "335885403616",
+    "project_id": "chat-me-2e2cf",
+    "storage_bucket": "chat-me-2e2cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:335885403616:android:39b82017752df08a629785",
+        "android_client_info": {
+          "package_name": "com.MRcode.chat_me"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "335885403616-aq66veao3t5uslkrnetfaqqf7rtokjap.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9J7yFsM50Wdz3Uh8GsY0XcUmfJnOPXjY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "335885403616-aq66veao3t5uslkrnetfaqqf7rtokjap.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
